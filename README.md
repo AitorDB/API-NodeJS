@@ -1,9 +1,9 @@
 # API REST boilerplate
 
-[![node](https://img.shields.io/badge/node-v8.4.0-green.svg?style=flat-square)](https://nodejs.org/)
-[![npm](https://img.shields.io/badge/npm-v5.3.0-green.svg?style=flat-square)](https://www.npmjs.com/)
-[![mongodb](https://img.shields.io/badge/mongodb-v3.4.6-green.svg?style=flat-square)](https://www.mongodb.com/)
-[![Express](https://img.shields.io/badge/express-v4.15.4-green.svg?style=flat-square)](http://expressjs.com/)
+[![node](https://img.shields.io/badge/node-v8.11.1-green.svg?style=flat-square)](https://nodejs.org/)
+[![npm](https://img.shields.io/badge/npm-v5.6.0-green.svg?style=flat-square)](https://www.npmjs.com/)
+[![mongodb](https://img.shields.io/badge/mongodb-v3.6.4-green.svg?style=flat-square)](https://www.mongodb.com/)
+[![Express](https://img.shields.io/badge/express-v4.16.3-green.svg?style=flat-square)](http://expressjs.com/)
 [![MIT License](https://img.shields.io/npm/l/stack-overflow-copy-paste.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 [![Support me](https://img.shields.io/badge/support-paypal-red.svg?style=flat-square)](https://www.paypal.me/ThorDevs)
 
