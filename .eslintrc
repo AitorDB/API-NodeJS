@@ -1,0 +1,18 @@
+{
+  "extends": ["eslint:recommended", "google"],
+  "parser": "babel-eslint",
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "rules": {
+    "object-curly-spacing": ["error", "always"],
+    "max-len": ["error", 180],
+    "indent": ["error", 4, { "SwitchCase": 1 }],
+    "prefer-destructuring": ["error", {
+      "array": false,
+      "object": true
+    }],
+    "semi": ["error", "never"]
+  }
+}

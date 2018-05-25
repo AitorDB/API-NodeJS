@@ -1,0 +1,10 @@
+{
+    "presets": ["env"],
+    "ignore": [
+        "/node_modules/",
+        "/app/views/"
+    ],
+    "plugins": [
+        "add-module-exports"
+    ]
+}

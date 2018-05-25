@@ -1,0 +1,4 @@
+dist/
+app/config/
+node_modules/
+scripts/
